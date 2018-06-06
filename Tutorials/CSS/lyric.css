@@ -1,8 +1,59 @@
-	h3{color:blue;
-		font-size:24px;}
+
+	@fontface{
+		font-family:americantypewriter;
+		src:url("fonts/americantypewriter.ttc");
+		font-weight:100;
+		font-style:normal;
+
+	}
+/*
+	p{font-family:americantypewriter;}*/
+/*	p{font-family: 'Playfair Display SC', serif;}*/
+
+/*h1{font-family: 'Montserrat', sans-serif;}*/
+/*h3{font-family: 'Montserrat', sans-serif;}*/
+
+
+	img{
+		margin-top: 50px;
+		height:500px;
+		width:500px;
+
+	}
+
+	audio{
+		position:fixed;
+	}
+
+	body{
+		background-color:black;
+		margin-left:200px;
+	}
+
+
+	h1{
+		color:yellow;
+		font-size:40px;
+		font-family: 'Montserrat', sans-serif;
+
+	}
+
+
+
+	h3{
+		color:#ff82ce;
+		font-size:24px;
+		font-family: 'Montserrat', sans-serif;
+	}
 
 
 
 		.intro{
 			text-decoration: bold;
+			color:white;
+		}
+
+		p{
+			color:white;
+			font-family: 'Playfair Display SC', serif;
 		}
