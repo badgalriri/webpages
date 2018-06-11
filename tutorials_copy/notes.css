@@ -1,0 +1,33 @@
+h1{
+	color:red;
+
+	font-size:20px;
+}
+
+
+h2{}
+
+<a href="link"></a> 
+
+a{
+	font-family:arial;
+	background color:blue;
+	margin-left:50px;
+	padding:20px;
+	border:5px solid red;
+}
+
+
+
+a:hover{
+	font-family:arial;
+	background color:black;
+}
+
+
+a:visited{
+	font-family:arial;
+	background color:green;
+}
+
+

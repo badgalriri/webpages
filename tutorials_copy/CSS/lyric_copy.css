@@ -1,0 +1,76 @@
+	img{
+		margin-top: 50px;
+		height:500px;
+		width:500px;
+	}
+
+body, html {
+    height: 100%;
+    margin:0;
+}
+
+
+.title{
+	width:285px;
+}
+
+.intro{
+	width:300px;
+}
+
+.name{
+	font-style:;
+}
+
+	audio{
+		position:fixed;
+	}
+
+	body{
+		background-color:black;
+		margin-left:200px;
+		margin-bottom:200px;
+
+	}
+
+
+	h1{
+		color:yellow;
+		font-size:40px;
+		font-family: 'Montserrat', sans-serif;
+		width:300px;
+	}
+
+	h1:hover{
+		color:white;
+		font-size: 43px;
+	}
+
+	h3{
+		color:#ff82ce;
+		font-size:24px;
+		font-family: 'Montserrat', sans-serif;
+		width:118px;
+	}
+
+	h3:hover{
+			text-decoration: normal;
+			color:white;
+			font-size: 30px;
+		}
+
+	p{
+			color:white;
+			font-family: 'Playfair Display SC', serif;
+			font-size:15px;
+			background-color:black;
+			width: 500px;
+		}
+
+
+
+
+
+		
+
+	
