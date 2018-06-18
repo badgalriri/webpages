@@ -1,0 +1,115 @@
+.title h1{
+	color:#8b0000;
+	text-align: center;
+	font-size:40px;
+	font-family:"Orbitron";
+	margin:0;
+}
+
+.title2 h1{
+	color:#8b0000;
+	text-align: center;
+	font-size:38px;
+	font-family:"Orbitron";
+	margin-bottom:200px;
+
+}
+.logo img{
+	height:550px;
+	width:600px;
+	margin-left:390px;
+
+}
+
+.img1{
+	margin-left: 100px;
+	margin-top:100px;
+}
+
+.img2{
+	margin-left: 100px;
+	margin-top:100px;
+}
+
+.img3{
+	margin-left: 100px;
+	margin-top:100px;
+}
+
+.img4{
+	margin-left: 100px;
+	margin-top:100px;
+}	
+
+.img5{
+	margin-left: 150px;
+	margin-top:100px;
+}	
+
+.manifesto h1{
+	color:white;
+	text-align: center;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-family:"Karla";
+}
+
+
+.manifesto img{
+	height:60%;
+	width:60%;
+	margin-left:300px;
+	background-color: white;
+	opacity: .90;
+	margin-top:75px;
+}
+
+.curators h1{
+	font-family:"Karla";
+	color:#8b0000;
+	text-align: center;
+	margin-top:100px;
+
+}
+
+.curators{
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:100px;
+}
+
+.freespace{
+	color:#8b0000;
+	font-size:60px; 
+}
+
+.project_info h1{
+	text-align: center;
+	font-family:"Karla";
+	margin-left:200px;
+	background-color:#8b0000;
+	width:1000px;
+	margin-top:100px;
+}
+
+.info h1{
+	text-align: center;
+	font-family:"Karla";
+	margin-left:200px;
+	background-color:#8b0000;
+	width:1000px;
+	margin-top:100px;
+
+}
+
+.img_style{
+	position: absolute; 
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	max-height: none;
+	max-width: none; 
+	z-index: -999999; 
+	width: 100%; 
+	height: 100%;
+	left: 0px;}
