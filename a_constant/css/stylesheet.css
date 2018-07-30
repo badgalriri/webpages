@@ -15,6 +15,12 @@
     opacity:0;
 }
 
+.x:hover{
+
+    cursor: pointer;
+
+}
+
 .vl {
     position:fixed;
     border-left: 10px solid red;
@@ -41,7 +47,7 @@
 
 
 .a_constant p {
-font-size: 24px;
+font-size: 22px;
 font-family: 'Muli', sans-serif;
 letter-spacing: 5px;
 color:red;
@@ -338,7 +344,7 @@ img
 .scroll_text
 {
 	position:absolute;
-	margin-left:35%;
+	margin-left:34%;
 	top: 0;
 	z-index:10;
 	width:200%;
@@ -347,7 +353,7 @@ img
 
 .scroll_text p
 {
-font-size: 24px;
+font-size: 22px;
 font-family: 'Muli', sans-serif;
 
 
